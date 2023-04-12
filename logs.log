@@ -1,9 +1,0 @@
-2023-04-12 15:49:28,140:WARNING:
-'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
-2023-04-12 15:49:28,140:WARNING:
-'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
-2023-04-12 15:49:28,140:WARNING:
-'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
-2023-04-12 15:49:28,140:WARNING:
-'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
-2023-04-12 15:49:29,196:INFO:Soft dependency imported: prophet: 1.1.2
